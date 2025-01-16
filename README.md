@@ -1,0 +1,2 @@
+# Deep_Learning-Based_Cat_and_Dog_Image_Classifier_with_Interactive_Streamlit_Interface
+This project showcases the creation, training, and deployment of a custom convolutional neural network (CNN) to classify images of cats and dogs. It includes dataset cleaning, preprocessing, and model optimization with techniques like batch normalization and regularization. A Streamlit interface enables real-time image classification.
